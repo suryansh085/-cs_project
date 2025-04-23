@@ -12,5 +12,6 @@ def time():
 label = tk.Label(root, font=('Calibri', 59, 'bold'), background='white', foreground='black')
 label.pack(anchor='center')
 
+
 time()
 root.mainloop()
